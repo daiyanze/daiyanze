@@ -53,6 +53,11 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params/)
+- [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features/)
+- [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array/)
+- [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
+- [16 CSS Pseudo Selectors Worth Bookmarking](https://pitayan.com/posts/css-pseudo-selectors/)
 <!-- BLOG-POST-LIST:END -->
 
 
