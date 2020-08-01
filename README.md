@@ -58,6 +58,11 @@
 - [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array/)
 - [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
 - [16 CSS Pseudo Selectors Worth Bookmarking](https://pitayan.com/posts/css-pseudo-selectors/)
+- [I created a sexy voice assistant in 180 lines of code](https://pitayan.com/posts/voice-assistant/)
+- [A brief talk about technical debt](https://pitayan.com/posts/technical-debt/)
+- [A drill down of React Router: can't be any simpler](https://pitayan.com/posts/react-router-mvp/)
+- [Javascript key-value store: understand some cool built-in Objects](https://pitayan.com/posts/javascript-key-value-array/)
+- [Javascript Get URL info with document.location](https://pitayan.com/posts/document-location-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 
