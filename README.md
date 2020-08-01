@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Yanze Dai. Call me Zenon. 👋
+
+### I'm a "DX" first developer, a gym guy, a blogger, a traveler
+- 🔭 I’m currently working on things that 
+- 🌱 I’m currently learning Node Rust Webassembly
+- 💬 Ask me about Javascript / Typescript / Frontend Development
+- 🥅 This years Goals: Be a better developer and blogger
+- ⚡ Fun fact: I love to aquascape my tank / go hiking / go to the beach
+
 
 <!--
 **daiyanze/daiyanze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
