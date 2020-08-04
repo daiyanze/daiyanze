@@ -53,7 +53,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn FP Design from Redux](https://pitayan.com/posts/redux-fp-design/)
+- [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design/)
 - [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params/)
 - [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features/)
 - [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array/)
