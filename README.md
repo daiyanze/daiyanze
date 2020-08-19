@@ -53,6 +53,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
 - [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features/)
 - [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design/)
 - [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params/)
@@ -62,7 +63,6 @@
 - [16 CSS Pseudo Selectors Worth Bookmarking](https://pitayan.com/posts/css-pseudo-selectors/)
 - [I created a sexy voice assistant in 180 lines of code](https://pitayan.com/posts/voice-assistant/)
 - [A brief talk about technical debt](https://pitayan.com/posts/technical-debt/)
-- [A drill down of React Router: can't be any simpler](https://pitayan.com/posts/react-router-mvp/)
 <!-- BLOG-POST-LIST:END -->
 
 
