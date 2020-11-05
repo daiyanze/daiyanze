@@ -53,6 +53,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
 - [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
 - [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features/)
 - [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design/)
@@ -62,7 +63,6 @@
 - [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
 - [16 CSS Pseudo Selectors Worth Bookmarking](https://pitayan.com/posts/css-pseudo-selectors/)
 - [I created a sexy voice assistant in 180 lines of code](https://pitayan.com/posts/voice-assistant/)
-- [A brief talk about technical debt](https://pitayan.com/posts/technical-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 
