@@ -1,4 +1,4 @@
-## Hi there, I'm Zenon (Yanze Dai). 👋
+## Hi there, I'm Zenon. 👋
 
 #### I'm a "DX" first developer, a gym guy, a blogger, a traveler
 - 🔭 I’m currently working on things that 
