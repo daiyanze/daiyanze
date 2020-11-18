@@ -1,8 +1,6 @@
 ## Hi there, I'm Zenon. 👋
 
 #### I'm a "DX" first developer, a gym guy, a blogger, a traveler
-- 🔭 I’m currently working on things that 
-- 🌱 I’m currently learning Node Rust Webassembly
 - 💬 Ask me about Javascript / Typescript / Frontend Development
 - 🥅 This years Goals: Be a better developer and blogger
 - ⚡ Fun fact: I love to aquascape my tank / go hiking / go to the beach
