@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at minute 0 past every 12th hour
+    # https://crontab.guru/every-12-hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
