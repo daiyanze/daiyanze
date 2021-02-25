@@ -1,4 +1,4 @@
-## Hi there, I'm Zenon. 👋
+## Hi there, I'm Tide. 👋
 
 #### I'm a "DX" first developer, a gym guy, a blogger, a traveler
 - 💬 Ask me about Javascript / Typescript / Frontend Development
