@@ -51,6 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remake Pitayan Blog (Part 1)](https://pitayan.com/posts/remake-pitayan-blog/)
 - [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function/)
 - [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
 - [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
@@ -60,7 +61,6 @@
 - [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features/)
 - [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array/)
 - [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
-- [16 CSS Pseudo Selectors Worth Bookmarking](https://pitayan.com/posts/css-pseudo-selectors/)
 <!-- BLOG-POST-LIST:END -->
 
 
