@@ -51,7 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Remake Pitayan Blog (Part 1)](https://pitayan.com/posts/remake-pitayan-blog/)
+- [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog/)
 - [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function/)
 - [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
 - [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
