@@ -51,6 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning tmux](https://pitayan.com/posts/learning-tmux-as-a-beginner)
 - [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
 - [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
 - [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function)
@@ -60,7 +61,6 @@
 - [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design)
 - [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params)
 - [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features)
-- [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array)
 <!-- BLOG-POST-LIST:END -->
 
 
