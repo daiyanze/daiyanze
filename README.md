@@ -51,16 +51,16 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog/)
-- [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function/)
-- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
-- [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
-- [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features/)
-- [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design/)
-- [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params/)
-- [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features/)
-- [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array/)
-- [Have You Mastered These 9 Vue Techniques?](https://pitayan.com/posts/vue-techniques/)
+- [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
+- [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
+- [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function)
+- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world)
+- [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt)
+- [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features)
+- [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design)
+- [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params)
+- [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features)
+- [The optimal solution to shuffle an Array in Javascript](https://pitayan.com/posts/javascript-shuffle-array)
 <!-- BLOG-POST-LIST:END -->
 
 
