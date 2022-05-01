@@ -51,7 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning tmux](https://pitayan.com/posts/learning-tmux-as-a-beginner)
+- [Learning tmux as a beginner](https://pitayan.com/posts/learning-tmux-as-a-beginner)
 - [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
 - [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
 - [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function)
