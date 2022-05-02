@@ -51,6 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do these console.log print out?](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
 - [Learning tmux as a beginner](https://pitayan.com/posts/learning-tmux-as-a-beginner)
 - [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
 - [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
@@ -60,7 +61,6 @@
 - [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features)
 - [Learn Functional Progamming Design from Redux](https://pitayan.com/posts/redux-fp-design)
 - [JSON.stringify accepts 2 other parameters](https://pitayan.com/posts/json-stringify-params)
-- [I Have Very Good Feelings about ES2020 features](https://pitayan.com/posts/es2020-features)
 <!-- BLOG-POST-LIST:END -->
 
 
