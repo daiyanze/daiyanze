@@ -51,7 +51,7 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What do these console.log print out?](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
+- [8 Javascript quiz that may confuse you](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
 - [Learning tmux as a beginner](https://pitayan.com/posts/learning-tmux-as-a-beginner)
 - [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
 - [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
