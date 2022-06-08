@@ -51,16 +51,16 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Capture the flag: A Node.js web app vulnerability practice &lpar;part 1&rpar;](https://pitayan.com/posts/capture-web-app-vulnerabilities)
-- [Interview Officer: &quot;Tell me about Cookies Session and Tokens&quot;. Me: &quot;Emm...&quot;](https://pitayan.com/posts/sessions-cookies-and-tokens)
-- [8 Javascript quiz that may confuse you](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you)
-- [Learning tmux as a beginner](https://pitayan.com/posts/learning-tmux-as-a-beginner)
-- [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2)
-- [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog)
-- [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function)
-- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world)
-- [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt)
-- [Vue 3 new features summary](https://pitayan.com/posts/vue-next-features)
+- [Capture the flag: A Node.js web app vulnerability practice &lpar;part 1&rpar;](https://pitayan.com/posts/capture-web-app-vulnerabilities/)
+- [Interview Officer: &quot;Tell me about Cookies Session and Tokens&quot;. Me: &quot;Emm...&quot;](https://pitayan.com/posts/sessions-cookies-and-tokens/)
+- [8 Javascript quiz that may confuse you](https://pitayan.com/posts/8-javascript-quiz-that-may-confuse-you/)
+- [Learning tmux as a beginner](https://pitayan.com/posts/learning-tmux-as-a-beginner/)
+- [Remake Pitayan Blog &lpar;Part 2&rpar;](https://pitayan.com/posts/remake-pitayan-blog-part-2/)
+- [About](https://pitayan.com/about/)
+- [Remake Pitayan Blog &lpar;Part 1&rpar;](https://pitayan.com/posts/remake-pitayan-blog/)
+- [A petty trick in front of a builtin function](https://pitayan.com/posts/petty-trick-in-front-of-a-builtin-function/)
+- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
+- [Attempting to create a CSS framework](https://pitayan.com/posts/css-framework-attempt/)
 <!-- BLOG-POST-LIST:END -->
 
 
