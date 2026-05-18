@@ -1,4 +1,4 @@
-## Hi there, I'm Tide. 👋
+## Hi there, I'm Grant. 👋
 
 #### I'm a "DX" first developer, a gym guy, a blogger, a traveler
 - 💬 Ask me about Javascript / Typescript / Frontend Development
